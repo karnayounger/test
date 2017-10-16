@@ -23,8 +23,7 @@
 - Write
   - Chapter 2 Topic formation (Peter)
   - Chapter 3 Squirreling information (Karna, tentative)
-  - Chapter 4 Where does information live (Carmen)
-Start with Google stuff, talk about the dark side of Google, and alternative resources; marginalization and bias
+  - Chapter 4 Where does information live (Start with Google stuff, talk about the dark side of Google, and alternative resources; marginalization and bias) (Carmen) 
 History resources chapter (Peter)
 Business chapter (Peter)
 Spring 2018
