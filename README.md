@@ -9,8 +9,7 @@ Using your know-how, we are fashioning an open textbook for an undergraduate jou
 Check out our [roadmap](roadmap.md) for our production schedule and more topic ideas. 
 
 ### Who do we need? You. 
-
-The purpose of the book is to prepare future journalists to research, so we need journalists, librarians, and related smart people to help us author the textbook. Chapter authors may submit a proposal on topics such as interviewing, government information (federal, state, local, and hyper-local),topic or source development, the structuring of information, and the list goes on. 
+If you are a journalist, librarian, or awesome, help us. Submit a proposal on interviewing, government information (federal, state, local, and hyper-local),topic or source development, the structuring of knowledge. 
 
 If you are interested, post a message to XXXX. 
   
